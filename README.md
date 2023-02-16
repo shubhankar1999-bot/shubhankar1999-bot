@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://icongr.am/devicon/git-plain-wordmark.svg?size=128&color=currentColor" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://icongr.am/devicon/git-plain.svg?size=128&color=currentColor" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 ---
